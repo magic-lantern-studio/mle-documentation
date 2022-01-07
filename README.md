@@ -5,4 +5,4 @@ Documentation for the Magic Lantern software can be found in this project. A Git
 
 # Software Package Distribution
 
-Magic Lantern software packages may be downloaded from SourceForge at https://sourceforge.net/projects/wz-mle/files/. <a href="https://sourceforge.net/p/wz-mle/"><img alt="Download Magic Lantern" src="https://sourceforge.net/sflogo.php?type=18&group_id=188767" width=200></a>
+Magic Lantern software packages may be downloaded from SourceForge at https://sourceforge.net/projects/wz-mle/files/. <a href="https://sourceforge.net/p/wz-mle/">SourceForge Download<img alt="Download Magic Lantern" src="https://sourceforge.net/sflogo.php?type=18&group_id=188767" width=200></a>
