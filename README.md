@@ -7,8 +7,15 @@ Documentation for the Magic Lantern software can be found in this project. A Git
 # Build Status
 
   * mle-core-util
-    * AppVeyor CI for Ubuntu 22.04 LTS 64-bit: <img src="https://ci.appveyor.com/api/projects/status/nom8udqubcruhshh?svg=true" alt="Linux Project Badge">
-    * AppVeyor CI for Visual Studio 2022: <img src="https://ci.appveyor.com/api/projects/status/fi70lj0qxprjxse4?svg=true" alt="Windows Project Badge">
+Actions CI for Ubuntu 24.04 LTS 64-bit
+<a href="https://github.com/magic-lantern-studio/mle-core-util/actions/workflows/continuous-integration-ubuntu-24.04.yml">
+  <img src="https://github.com/magic-lantern-studio/mle-core-util/actions/workflows/continuous-integration-ubuntu-24.04.yml/badge.svg" alt="Continuous Integration Ubuntu 24.04 build">
+</a>
+
+Actions CI for Visual Studio 2022:
+<a href="https://github.com/magic-lantern-studio/mle-core-util/actions/workflows/continuous-integration-windows-msvc17.yml">
+  <img src="https://github.com/magic-lantern-studio/mle-core-util/actions/workflows/continuous-integration-windows-msvc17.yml/badge.svg" alt="Continuous Integration Windows build">
+</a>
   * mle-core-math
     * AppVeyor CI for Ubuntu 22.04 LTS 64-bit: <img src="https://ci.appveyor.com/api/projects/status/7a9admp8k7v8828e?svg=true" alt="Project Badge">
     * Github CI for Windows 11: [![Continuous Integration Build](https://github.com/magic-lantern-studio/mle-core-math/actions/workflows/continuous-integration-msvc17.yml/badge.svg)](https://github.com/magic-lantern-studio/mle-core-math/actions/workflows/continuous-integration-msvc17.yml)
