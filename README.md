@@ -7,12 +7,12 @@ Documentation for the Magic Lantern software can be found in this project. A Git
 # Build Status
 
 ## mle-core-util
-* Actions CI for Ubuntu 24.04 LTS 64-bit
+Actions CI for Ubuntu 24.04 LTS 64-bit
 <a href="https://github.com/magic-lantern-studio/mle-core-util/actions/workflows/continuous-integration-ubuntu-24.04.yml">
   <img src="https://github.com/magic-lantern-studio/mle-core-util/actions/workflows/continuous-integration-ubuntu-24.04.yml/badge.svg" alt="Continuous Integration Ubuntu 24.04 build">
 </a>
 
-* Actions CI for Visual Studio 2022:
+Actions CI for Visual Studio 2022:
 <a href="https://github.com/magic-lantern-studio/mle-core-util/actions/workflows/continuous-integration-windows-msvc17.yml">
   <img src="https://github.com/magic-lantern-studio/mle-core-util/actions/workflows/continuous-integration-windows-msvc17.yml/badge.svg" alt="Continuous Integration Windows build">
 </a>
