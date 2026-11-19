@@ -29,7 +29,15 @@ Actions CI for Visual Studio 2022:
 </a>
     
 ## mle-core-dwp
-    * AppVeyor CI for Ubuntu 22.04 LTS 64-bit: <img src="https://ci.appveyor.com/api/projects/status/6pgwemavf8x68ec9?svg=true" alt="Linux Project Badge">
+Actions CI for Ubuntu 24.04 LTS 64-bit
+<a href="https://github.com/magic-lantern-studio/mle-core-dwp/actions/workflows/continuous-integration-ubuntu-24.04.yml">
+  <img src="https://github.com/magic-lantern-studio/mle-core-dwp/actions/workflows/continuous-integration-ubuntu-24.04.yml/badge.svg" alt="Continuous Integration Ubuntu 24.04 build">
+</a>
+
+Actions CI for Visual Studio 2022
+<a href="https://github.com/magic-lantern-studio/mle-core-dwp/actions/workflows/continuous-integration-windows-msvc17.yml">
+  <img src="https://github.com/magic-lantern-studio/mle-core-dwp/actions/workflows/continuous-integration-windows-msvc17.yml/badge.svg" alt="Continuous Integration Windows build">
+</a>
 
 ## mle-core-dpp
     * AppVeyor CI for Ubuntu 22.04 LTS 64-bit: <img src="https://ci.appveyor.com/api/projects/status/hafv6cyeb8i8k8t5?svg=true" alt="Linux Project Badge">
